@@ -18,7 +18,7 @@ beef:
     # Used by both the RESTful API and the Admin interface
     credentials:
         user:   "beef"
-        passwd: "beef"
+        passwd: "epic_gamer"
 
     # Interface / IP restrictions
     restrictions:
@@ -46,7 +46,7 @@ beef:
         # Host Name / Domain Name
         # If you want BeEF to be accessible via hostname or domain name (ie, DynDNS),
         #   set the public hostname below:
-        #public: ""      # public hostname/IP address
+        public: "81.111.170.171"      # public hostname/IP address
 
         # Reverse Proxy / NAT
         # If you want BeEF to be accessible behind a reverse proxy or NAT,
