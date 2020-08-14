@@ -1,0 +1,10 @@
+beef:
+    module:
+        link_rewrite:
+            enable: true
+            category: ["Browser", "Hooked Domain"]
+            name: "Link Rewrite (Rickroll)"
+            description: "This module will rewrite all the href attributes of all matched links to Rickroll on youtube."
+            authors: ["bensommer"]
+            target:
+                working: ["ALL"]
